@@ -1,10 +1,7 @@
 ﻿using System;
 using Telegram.Bot;
-using Telegram.Bot.Args;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
-using ApiAiSDK;
-using ApiAiSDK.Model;
 using System.IO;
 using System.Linq;
 using System.Collections.Generic;
@@ -92,7 +89,7 @@ namespace TelegramBotVeniamin
 /keyboard - вывод клавиатуры
 /getImage - получить картинку
 /getVideo - получить видео
-/getCompliment - получить комплимент от любимого мужика
+/getCompliment - получить комплимент
 /stop - остановить бота";
 
                     await Bot.SendTextMessageAsync(message.From.Id, commands);
@@ -102,7 +99,7 @@ namespace TelegramBotVeniamin
                     {
                         new[]
                         {
-                            InlineKeyboardButton.WithUrl("Написать любимому в ВК","https://vk.com/andreas_vold"),
+                            InlineKeyboardButton.WithUrl("Написать в ВК","https://vk.com/andreas_vold"),
                             InlineKeyboardButton.WithUrl("Отправить фотку","https://t.me/Andreas_Vold"),
                         }
 
