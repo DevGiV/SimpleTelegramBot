@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TelegramBotVeniamin</id>
+    <version>1.0.0</version>
+    <authors>TelegramBotVeniamin</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="ApiAiSDK" version="1.6.5" exclude="Build,Analyzers" />
+        <dependency id="Telegram.Bot" version="16.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.runtimeconfig.json" target="lib\net5.0\TelegramBotVeniamin.runtimeconfig.json" />
+    <file src="C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.dll" target="lib\net5.0\TelegramBotVeniamin.dll" />
+  </files>
+</package>

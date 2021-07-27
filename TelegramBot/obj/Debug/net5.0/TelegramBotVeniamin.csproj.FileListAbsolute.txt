@@ -1,0 +1,66 @@
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.exe
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.deps.json
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.runtimeconfig.json
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.runtimeconfig.dev.json
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.dll
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\ref\TelegramBotVeniamin.dll
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.pdb
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csprojAssemblyReference.cache
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.AssemblyInfoInputs.cache
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.AssemblyInfo.cs
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csproj.CoreCompileInputs.cache
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csproj.CopyComplete
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.dll
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\ref\TelegramBotVeniamin.dll
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.pdb
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.genruntimeconfig.cache
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\ApiAiSDK.dll
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Program.cs
+C:\Users\Veniamin\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\compliments.txt
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.dll
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\ref\TelegramBotVeniamin.dll
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.pdb
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.exe
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Program.cs
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\compliments.txt
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.deps.json
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.runtimeconfig.json
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.runtimeconfig.dev.json
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.dll
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\ref\TelegramBotVeniamin.dll
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.pdb
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\ApiAiSDK.dll
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csproj.AssemblyReference.cache
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.AssemblyInfoInputs.cache
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.AssemblyInfo.cs
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csproj.CoreCompileInputs.cache
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csproj.CopyComplete
+C:\Users\Вениамин\Desktop\Проекты на C#\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.genruntimeconfig.cache
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.exe
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Program.cs
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\compliments.txt
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.deps.json
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.runtimeconfig.json
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.runtimeconfig.dev.json
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.dll
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\ref\TelegramBotVeniamin.dll
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\TelegramBotVeniamin.pdb
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\ApiAiSDK.dll
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csproj.AssemblyReference.cache
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.AssemblyInfoInputs.cache
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.AssemblyInfo.cs
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csproj.CoreCompileInputs.cache
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.csproj.CopyComplete
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.dll
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\ref\TelegramBotVeniamin.dll
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.pdb
+C:\Users\Вениамин\Desktop\CSharp projects\TelegramBotVeniamin\TelegramBotVeniamin\obj\Debug\net5.0\TelegramBotVeniamin.genruntimeconfig.cache
